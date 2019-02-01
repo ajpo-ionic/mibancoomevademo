@@ -1,5 +1,7 @@
 {
   "name": "mibancoomevademo",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
